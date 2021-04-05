@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JunyiZhou1119
-- 👀 I’m interested in Programming and swimming.
-- 🌱 I’m currently learning ReactJS, Angular, Javascript, and Typescript.
+- 👀 I’m interested in Programming and Swimming.
+- 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (Secret).
 
