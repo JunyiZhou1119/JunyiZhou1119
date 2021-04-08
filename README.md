@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JunyiZhou1119
 - 👀 I’m interested in Programming and Swimming.
 - 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (Secret).
+- 📫 You can reach me at junyi.zhou44@gmail.com.
 
 <!---
 JunyiZhou1119/JunyiZhou1119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
